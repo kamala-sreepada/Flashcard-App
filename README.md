@@ -2,6 +2,10 @@
 
 ## CodePath Android App Development Lab 1
 
+### App Walk-though
+
+<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/fb7c9f396d9063ccbf7d44bf2cae223a6002fa99/video4476444445.mp4" width=200><br>
+
 ## Required
 - [x] Create New Project in Android Studio
 - [x] Add a view for the front side of the flashcard to display the question

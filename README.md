@@ -1,14 +1,6 @@
 # Flashcard-App
 
-## Lab 1
-
-### App Description
-`TODO://` Add app description
-
-### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+## CodePath Android App Development Lab 1
 
 ## Required
 - [x] Create New Project in Android Studio

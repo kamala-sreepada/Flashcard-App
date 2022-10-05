@@ -1,7 +1,7 @@
 # Flashcard-App
 
 ## App Demo
-<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/f87e6d51b73fee30542e709b1a8b04564fff5e22/lab2.gif" width=200>
+<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/96e65c34e1a9e86549dd1594cee700e730c9eefe/lab%202%20demo.gif" width=200>
 <br>
 
 ## Lab 2

@@ -2,11 +2,9 @@
 
 ## Lab 3
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://github.com/kamala-sreepada/Flashcard-App/blob/10132c1275ebd83af701e5cb6cad4bf227fb4657/Week%205%20Demo.gif" width=200><br>
-
-
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.
@@ -24,8 +22,6 @@
 
 ## Lab 2
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
 - [x] The 'Add Card Screen' has a cancel button to take the user back to the main screen
@@ -41,7 +37,7 @@
 - [ ] App is further styled and customized!
 ## CodePath Android App Development Lab 1
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://imgur.com/htOfhp8" width=200><br>
 

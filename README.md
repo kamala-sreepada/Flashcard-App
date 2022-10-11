@@ -4,7 +4,7 @@
 
 ### App Walk-through
 
-<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/10132c1275ebd83af701e5cb6cad4bf227fb4657/Week%205%20Demo.gif" width=200><br>
+<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/3e36bcefe46da6b71f63d989f13fcb0bef6c8e62/Lab%203%20demo.gif" width=200><br>
 
 ## Required
 - [x] User can create a card and still see their created card when the app is relaunched.

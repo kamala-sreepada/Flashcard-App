@@ -2,7 +2,7 @@
 
 ## Lab 4
 
-### App Walk-though
+### App Walk-through
 
 <img src="https://github.com/kamala-sreepada/Flashcard-App/blob/8f2113e1126953db6270035da61f0fb3f194f7d4/Lab%204%20DEMO.gif" width=200><br>
 

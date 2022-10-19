@@ -16,11 +16,11 @@
 - [ ] User can edit a card and see the edit saved when they browse through their deck of cards
 - [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
 
+## Lab 2
+
 ## App Demo
 <img src="https://github.com/kamala-sreepada/Flashcard-App/blob/96e65c34e1a9e86549dd1594cee700e730c9eefe/lab%202%20demo.gif" width=200>
 <br>
-
-## Lab 2
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
@@ -35,6 +35,7 @@
 - [ ] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
+
 ## CodePath Android App Development Lab 1
 
 ### App Walk-through

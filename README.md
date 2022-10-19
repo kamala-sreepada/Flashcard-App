@@ -4,7 +4,7 @@
 
 ### App Walk-though
 
-<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/b7abf07c58159f1e643c3d295e92cfb5dbc5b09c/Lab%204%20Demo.gif" width=200><br>
+<img src="https://github.com/kamala-sreepada/Flashcard-App/blob/8f2113e1126953db6270035da61f0fb3f194f7d4/Lab%204%20DEMO.gif" width=200><br>
 
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
